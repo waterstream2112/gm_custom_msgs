@@ -1,0 +1,33 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/nghiaho/ros1_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/nghiaho/ros1_ws/src/aruco_ros/aruco/include/**",
+        "/home/nghiaho/ros1_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_datafeeder/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_demo_low_obstacle/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_demo_multiple_cam_detection/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_demo_staircase_lidar/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_obstacle/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_pose_estimation/include/**",
+        "/home/nghiaho/ros1_ws/src/draconis_staircase/include/**",
+        "/home/nghiaho/ros1_ws/src/gm_behavior/include/**",
+        "/home/nghiaho/ros1_ws/src/gm_perception/include/**",
+        "/home/nghiaho/ros1_ws/src/my_ros1_lib/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-arm64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
