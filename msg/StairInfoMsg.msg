@@ -1,7 +1,7 @@
-float32[3] centerPoint
-float32[3] entryPoint
-float32[3] endPoint
-float32[4] orientation
+geometry_msgs/Point centerPoint
+geometry_msgs/Point entryPoint
+geometry_msgs/Point endPoint
+geometry_msgs/Quaternion orientation
 float32 length
 float32 width
 float32 height

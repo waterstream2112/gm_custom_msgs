@@ -32,6 +32,7 @@ add_message_files(
   FILES
   ImagesAndPointcloudMsg.msg
   StairInfoMsg.msg
+  StairsGroupMsg.msg
 )
 
 # Generate services in the 'srv' folder
