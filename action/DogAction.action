@@ -1,0 +1,8 @@
+# Goal
+int8 actionCode
+--- 
+# Result
+int8 result
+---
+# Feedback
+int8 feedback
