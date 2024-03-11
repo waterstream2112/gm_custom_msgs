@@ -1,5 +1,6 @@
 # Goal
 int8 actionCode
+geometry_msgs/PoseStamped pose
 --- 
 # Result
 int8 result
